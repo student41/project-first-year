@@ -1,45 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
-<scene PGFVersion="0.25" GSCVersion="1.25.5977" id="id283738">
+<scene PGFVersion="0.25" GSCVersion="1.25.5977" id="id829441">
   <layers>
-    <layer id="id739664">
+    <layer id="id265928">
       <actors>
-        <actor id="id404160" prototype="id398213">
+        <actor id="id132701" prototype="id739037">
           <attributes>
             <point id="position">
-              <real id="x">133</real>
-              <real id="y">175</real>
+              <real id="x">46</real>
+              <real id="y">160</real>
             </point>
             <size id="size">
-              <real id="width">120</real>
-              <real id="height">120</real>
+              <real id="width">45</real>
+              <real id="height">111</real>
             </size>
             <angle id="rotation">0</angle>
           </attributes>
           <aspects />
         </actor>
-        <actor id="id918791" prototype="id255038">
+        <actor id="id966839" prototype="id113816">
           <attributes>
             <point id="position">
-              <real id="x">288</real>
-              <real id="y">165</real>
+              <real id="x">516</real>
+              <real id="y">169</real>
             </point>
             <size id="size">
-              <real id="width">120</real>
-              <real id="height">120</real>
+              <real id="width">35</real>
+              <real id="height">122</real>
             </size>
             <angle id="rotation">0</angle>
           </attributes>
           <aspects />
         </actor>
-        <actor id="id983274" prototype="id663717">
+        <actor id="id478597" prototype="id796602">
           <attributes>
             <point id="position">
-              <real id="x">464</real>
-              <real id="y">141</real>
+              <real id="x">-24</real>
+              <real id="y">170</real>
             </point>
             <size id="size">
-              <real id="width">120</real>
-              <real id="height">120</real>
+              <real id="width">57</real>
+              <real id="height">328</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <aspects />
+        </actor>
+        <actor id="id737905" prototype="id998519">
+          <attributes>
+            <point id="position">
+              <real id="x">596</real>
+              <real id="y">161</real>
+            </point>
+            <size id="size">
+              <real id="width">77</real>
+              <real id="height">322</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <aspects />
+        </actor>
+        <actor id="id744769" prototype="id518937">
+          <attributes>
+            <point id="position">
+              <real id="x">284</real>
+              <real id="y">159</real>
+            </point>
+            <size id="size">
+              <real id="width">60</real>
+              <real id="height">57</real>
             </size>
             <angle id="rotation">0</angle>
           </attributes>
@@ -53,7 +81,7 @@
     </layer>
   </layers>
   <attributes>
-    <text id="name">Start Screen</text>
+    <text id="name">magic the gathering</text>
     <real id="time">0</real>
     <size id="size">
       <real id="width">568</real>

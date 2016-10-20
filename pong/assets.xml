@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <assets PGFVersion="0.25" GSCVersion="1.25.5977">
   <sounds />
-  <images />
+  <images>
+    <image name="19285-doctor-who-tardis-bluetooth-speaker-front_2">
+      <file name="19285-doctor-who-tardis-bluetooth-speaker-front_2.png" size="302464" />
+    </image>
+    <image name="6995954-magic-the-gathering">
+      <file name="6995954-magic-the-gathering.png" size="3735807" />
+    </image>
+    <image name="download (1)">
+      <file name="download (1).png" size="10236" />
+    </image>
+    <image name="download">
+      <file name="download.png" size="22568" />
+    </image>
+    <image name="images">
+      <file name="images.png" size="78269" />
+    </image>
+    <image name="maxresdefault">
+      <file name="maxresdefault.png" size="1036753" />
+    </image>
+    <image name="Webstar">
+      <file name="Webstar.png" size="246905" />
+    </image>
+  </images>
   <fonts />
   <behaviors />
 </assets>
